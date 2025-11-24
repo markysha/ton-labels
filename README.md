@@ -30,3 +30,4 @@ It’s a powerful tool for on-chain analysis.
 
 Join TON Data Hub – a community of TON analysts where we share best practices for analyzing TON data and host regular contests.
 ➡️ https://t.me/tondatahub
+.
